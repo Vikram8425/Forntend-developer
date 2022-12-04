@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Forntend-developer/static/css/main.ff179a16.css",
+    "main.js": "/Forntend-developer/static/js/main.a064c318.js",
+    "static/js/787.d3befce1.chunk.js": "/Forntend-developer/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Forntend-developer/index.html",
+    "main.ff179a16.css.map": "/Forntend-developer/static/css/main.ff179a16.css.map",
+    "main.a064c318.js.map": "/Forntend-developer/static/js/main.a064c318.js.map",
+    "787.d3befce1.chunk.js.map": "/Forntend-developer/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff179a16.css",
+    "static/js/main.a064c318.js"
+  ]
+}
